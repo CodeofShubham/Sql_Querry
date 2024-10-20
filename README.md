@@ -1,3 +1,3 @@
-# Sql_Querry
+# Sql_Query
 
 I am learning sql.
