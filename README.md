@@ -1,3 +1,3 @@
 # Sql_Querry
 
-i am learning sql.
+I am learning sql.
